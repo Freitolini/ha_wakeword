@@ -3,8 +3,8 @@
   "wake_word": "Alfredu",
   "author": "Kevin Ahrendt",
   "website": "https://www.kevinahrendt.com/",
-  "model": "alfredu.tflite",
-  "trained_languages": ["en"],
+  "model": "./alfredu.tflite",
+  "trained_languages": ["pt"],
   "version": 2,
   "micro": {
     "probability_cutoff": 0.5,
