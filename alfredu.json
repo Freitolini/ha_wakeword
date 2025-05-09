@@ -3,7 +3,7 @@
   "wake_word": "Alfredu",
   "author": "Kevin Ahrendt",
   "website": "https://www.kevinahrendt.com/",
-  "model": "./alfredu.tflite",
+  "model": "https://raw.githubusercontent.com/Freitolini/ha_wakeword/refs/heads/main/alfredu.tflite",
   "trained_languages": ["pt"],
   "version": 2,
   "micro": {
