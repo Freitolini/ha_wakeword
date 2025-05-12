@@ -4,7 +4,7 @@
   "author": "Kevin Ahrendt",
   "website": "https://www.kevinahrendt.com/",
   "model": "https://raw.githubusercontent.com/Freitolini/ha_wakeword/refs/heads/main/alfredu.tflite",
-  "trained_languages": ["pt"],
+  "trained_languages": ["en"],
   "version": 2,
   "micro": {
     "probability_cutoff": 0.5,
